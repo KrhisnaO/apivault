@@ -3,36 +3,42 @@
     "nombre": "Crónicas del Vacío",
     "descripcion": "Explora un universo en expansión y lidera civilizaciones en el espacio profundo.",
     "fechaLanzamiento": "2025-08-10",
-    "precio": 34990
+    "precio": 34990,
+    "imagen": "https://krhisnao.github.io/apivault/PROX.png"
   },
   {
     "nombre": "Reinos de Acero",
     "descripcion": "Construye fortalezas, recluta tropas y domina los campos de batalla medievales.",
     "fechaLanzamiento": "2025-08-22",
-    "precio": 29990
+    "precio": 29990,
+    "imagen": "https://krhisnao.github.io/apivault/PROX.png"
   },
   {
     "nombre": "Inferno Arena",
     "descripcion": "Lucha en combates infernales con guerreros legendarios y poderes ancestrales.",
     "fechaLanzamiento": "2025-09-05",
-    "precio": 31990
+    "precio": 31990,
+    "imagen": "https://krhisnao.github.io/apivault/PROX.png"
   },
   {
     "nombre": "Legado de los Elementos",
     "descripcion": "Domina los cuatro elementos y derrota a los guardianes del equilibrio.",
     "fechaLanzamiento": "2025-09-15",
-    "precio": 28990
+    "precio": 28990,
+    "imagen": "https://krhisnao.github.io/apivault/PROX.png"
   },
   {
     "nombre": "Safari Misterioso",
     "descripcion": "Viaja por tierras salvajes y descubre especies mágicas escondidas en la sabana.",
     "fechaLanzamiento": "2025-08-28",
-    "precio": 26990
+    "precio": 26990,
+    "imagen": "https://krhisnao.github.io/apivault/PROX.png"
   },
   {
     "nombre": "Código Omega",
     "descripcion": "Resuelve acertijos de lógica y hackea redes en este juego de inteligencia futurista.",
     "fechaLanzamiento": "2025-09-20",
-    "precio": 30990
+    "precio": 30990,
+    "imagen": "https://krhisnao.github.io/apivault/PROX.png"
   }
 ]
